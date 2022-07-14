@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /index.html
+Host: tourism13.ru
+Sitemap: http://tourism13.ru/sitemap.xml
